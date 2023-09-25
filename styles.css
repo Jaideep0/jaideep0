@@ -10,10 +10,21 @@ th{
 }
 
 .sub_education {
-    margin-bottom: 15px;
-
+    width: 100%;
+    text-align: left;
 }
 
 div {
     margin-bottom: 30px;
+    width: 90%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.new_div {
+    float: right;
+    width: 29%;
+    height: 36px;
+    text-align: right;
+    
 }
